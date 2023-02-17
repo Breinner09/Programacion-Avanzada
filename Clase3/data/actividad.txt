@@ -1,0 +1,4 @@
+Nombre del procesador: AMD Ryzen 7 5800H with Radeon Graphics          
+Memoria total: 16.542093312000002Gb 
+Sistema operativo: 10.0.19045 
+Usuario: EQUIPO
