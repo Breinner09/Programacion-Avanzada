@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "ej": "nodemon Express.js"
+    "ej": "nodemon modulos/crud.js"
   },
   "keywords": [],
   "author": "",
