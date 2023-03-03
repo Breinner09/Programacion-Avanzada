@@ -12,4 +12,6 @@ router.get("/web/:nombre",(req,res)=>{
         nombre:req.params.nombre
     })
 })
+
+
 module.exports=router;
